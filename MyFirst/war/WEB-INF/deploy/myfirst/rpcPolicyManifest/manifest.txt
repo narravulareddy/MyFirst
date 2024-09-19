@@ -1,0 +1,3 @@
+# Module myfirst
+# RPC service class, partial path of RPC policy file
+com.leo.client.GreetingService, 20002CD528F0540C650EB3595020E5FC.gwt.rpc

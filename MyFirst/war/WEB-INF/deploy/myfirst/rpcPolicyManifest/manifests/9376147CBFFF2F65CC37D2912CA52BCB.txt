@@ -1,0 +1,2 @@
+serviceClass: com.leo.client.GreetingService
+path: 20002CD528F0540C650EB3595020E5FC.gwt.rpc
